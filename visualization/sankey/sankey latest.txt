@@ -1,0 +1,121 @@
+// SankeyMATIC diagram inputs - Saved: 6/26/2024, 10:21:48 PM
+// https://sankeymatic.com/build/
+
+// === Nodes and Flows ===
+
+// Enter Flows between Nodes, like this:
+//         Source [AMOUNT] Target
+
+
+New petitions [573475] Citizenship and Nationality
+Old petitions [495823] Citizenship and Nationality
+Citizenship and Nationality [490088] Approved
+Citizenship and Nationality [49490] Denied
+Citizenship and Nationality [529720] Pending
+
+New petitions [2767194] Employment
+Old petitions [1910405] Employment
+Employment[2598446] Approved
+Employment[288365] Denied
+Employment[1790788] Pending
+
+New petitions [608401] Family
+Old petitions [2436995] Family
+Family [463508] Approved
+Family [62677] Denied
+Family [2519211] Pending
+
+New petitions[1050286]Humanitarian
+Old petitions[1943916]Humanitarian
+Humanitarian[699020]Approved
+Humanitarian[54068]Denied
+Humanitarian[2241114]Pending
+
+New petitions[511911]Lawful Permanent Residence
+Old petitions[918371]Lawful Permanent Residence
+Lawful Permanent Residence[349983]Approved
+Lawful Permanent Residence[33795]Denied
+Lawful Permanent Residence[1046504]Pending
+
+New petitions[976502]Other
+Old petitions[1502894]Other
+Other[840078]Approved
+Other[98883]Denied
+Other[1540435]Pending
+
+New petitions[243996]Supplemental processing
+Old petitions[]Supplemental processing
+Supplemental processing[0]Approved
+Supplemental processing[0]Denied
+Supplemental processing[78631]Pending
+
+// Use the controls below to customize
+// your diagram's appearance...
+
+// === Settings ===
+
+size w 1600
+  h 1000
+margin l 12
+  r 12
+  t 18
+  b 20
+bg color #ffffff
+  transparent N
+node w 12
+  h 50
+  spacing 75
+  border 0
+  theme b
+  color #888888
+  opacity 1
+flow curvature 0.62
+  inheritfrom outside-in
+  color #999999
+  opacity 0.4
+layout order automatic
+  justifyorigins N
+  justifyends N
+  reversegraph N
+  attachincompletesto nearest
+labels color #000000
+  hide N
+  highlight 0.75
+  fontface sans-serif
+  linespacing 0.2
+  relativesize 100
+  magnify 100
+labelname appears Y
+  size 12
+  weight 400
+labelvalue appears Y
+  fullprecision Y
+  position below
+  weight 400
+labelposition autoalign -1
+  scheme auto
+  first before
+  breakpoint 4
+value format ',.'
+  prefix ''
+  suffix ''
+themeoffset a 9
+  b 7
+  c 0
+  d 0
+meta mentionsankeymatic N
+  listimbalances Y
+
+// === Moved Nodes ===
+
+move Old petitions -0.00294, -0.08746
+move Approved -0.05122, -0.00913
+move Pending 0.0007, -0.19477
+move Family 0, 0.01351
+move Citizenship and Nationality -0.00098, -0.18023
+move Denied -0.0534, 0.2874
+move Other 0, -0.03722
+move Lawful Permanent Residence 0, -0.07294
+move Supplemental processing 0.00098, -0.09952
+move Employment 0, 0.14881
+move Humanitarian 0, -0.01378

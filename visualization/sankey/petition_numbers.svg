@@ -1,0 +1,88 @@
+<svg height="700" width="960" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 6/26/2024, 5:36:59 PM -->
+<rect height="700" width="960" fill="#ffffff"></rect>
+<g transform="translate(114.5875,18)">
+<g id="sankey_flows">
+<path id="flow1" d="M12 403.85133C90.71689 403.85133 79.05513 420.661 157.77202 420.661" fill="none" stroke-width="334.5" stroke="#17becf" opacity="0.4"><title>Previous Pending → Latest Pending: 9,746,403</title></path>
+<path id="flow0" d="M12 123.0751C90.87502 123.0751 79.18983 103.99027 158.06484 103.99027" fill="none" stroke-width="186.74127" stroke="#17becf" opacity="0.4"><title>Previous Pending → Approved: 5,441,123</title></path>
+<path id="flow8" d="M169.77202 544.6809C417.28516 544.6809 380.61655 605.78352 628.12969 605.78352" fill="none" stroke-width="86.46021" stroke="#bcbd22" opacity="0.4"><title>Latest Pending → Family: 2,519,211</title></path>
+<path id="flow7" d="M169.77202 462.99288C319.82713 462.99288 297.59674 478.29497 447.65185 478.29497" fill="none" stroke-width="76.91583" stroke="#7f7f7f" opacity="0.4"><title>Latest Pending → Humanitarian: 2,241,114</title></path>
+<path id="flow6" d="M169.77202 393.80473C319.28713 393.80473 297.13674 399.9762 446.65185 399.9762" fill="none" stroke-width="61.46048" stroke="#e377c2" opacity="0.4"><title>Latest Pending → Employment: 1,790,788</title></path>
+<path id="flow5" d="M169.77202 336.64035C319.28713 336.64035 297.13674 328.96846 446.65185 328.96846" fill="none" stroke-width="52.86827" stroke="#8c564b" opacity="0.4"><title>Latest Pending → Other: 1,540,435</title></path>
+<path id="flow9" d="M169.77202 292.24802C319.16651 292.24802 297.03399 274.70127 446.42848 274.70127" fill="none" stroke-width="35.91639" stroke="#17becf" opacity="0.4"><title>Latest Pending → Lawful Permanent Residence: 1,046,504</title></path>
+<path id="flow2" d="M12 216.44574v20.15559L158.06484 235.89149v-20.15559z" fill="#17becf" stroke-width="0.5" stroke="#17becf" opacity="0.4"><title>Previous Pending → Denied: 587,278</title></path>
+<path id="flow4" d="M169.77202 265.19974C318.78689 265.19974 296.71061 233.64541 445.72548 233.64541" fill="none" stroke-width="18.18018" stroke="#9467bd" opacity="0.4"><title>Latest Pending → Citizenship and Nationality: 529,720</title></path>
+<path id="flow3" d="M169.77202 254.76032C318.28665 254.76032 296.28448 197.57713 444.79911 197.57713" fill="none" stroke-width="2.69864" stroke="#d62728" opacity="0.4"><title>Latest Pending → Supplemental: 78,631</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="32.72494" height="541.39686" width="12" fill="#17becf" fill-opacity="1" transform="translate(0,-3.02047)"><title>Previous Pending:
+15,774,804</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="328.06484" y="4.61963" height="186.74127" width="12" fill="#1f77b4" fill-opacity="1" transform="translate(-170,6)"><title>Approved:
+5,441,123</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="328.06484" y="232.2984" height="334.5" width="12" fill="#ff7f0e" fill-opacity="1" transform="translate(-170.29282,21.1126)"><title>Latest Pending:
+9,746,403</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="328.06484" y="607.7359" height="20.15559" width="12" fill="#2ca02c" fill-opacity="1" transform="translate(-170,-392)"><title>Denied:
+587,278</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="656.12969" y="77.25537" height="2.69864" width="12" fill="#d62728" fill-opacity="1" transform="translate(-211.33058,118.97244)"><title>Supplemental:
+78,631</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="656.12969" y="120.89151" height="18.18018" width="12" fill="#9467bd" fill-opacity="1" transform="translate(-210.40421,103.66381)"><title>Citizenship and Nationality:
+529,720</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="656.12969" y="180.00919" height="52.86827" width="12" fill="#8c564b" fill-opacity="1" transform="translate(-209.47784,122.52514)"><title>Other:
+1,540,435</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="656.12969" y="273.81496" height="61.46048" width="12" fill="#e377c2" fill-opacity="1" transform="translate(-209.47784,95.43099)"><title>Employment:
+1,790,788</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="656.12969" y="376.21294" height="76.91583" width="12" fill="#7f7f7f" fill-opacity="1" transform="translate(-208.47784,63.62411)"><title>Humanitarian:
+2,241,114</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="656.12969" y="494.06627" height="86.46021" width="12" fill="#bcbd22" fill-opacity="1" transform="translate(-28,68.48715)"><title>Family:
+2,519,211</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="656.12969" y="621.46398" height="35.91639" width="12" fill="#17becf" fill-opacity="1" transform="translate(-209.70121,-364.72091)"><title>Lawful Permanent Residence:
+1,046,504</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="12px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-102.5875" y="287.78337" width="101.3625" height="31.40002" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,-3.02047)"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-4.725" y="303.42337" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(0,-3.02047)">Previous Pending<tspan x="-4.725" dy="13.8" font-weight="400" font-size="12px">15,774,804</tspan></text>
+<rect id="label1_bg" class="for_r1" x="341.28983" y="82.35028" width="60.69062" height="31.4" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-170,6)"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="344.78984" y="97.99027" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-170,6)">Approved<tspan x="344.78984" dy="13.8" font-weight="400" font-size="12px">5,441,123</tspan></text>
+<rect id="label2_bg" class="for_r2" x="239.47734" y="383.9084" width="87.3625" height="31.40002" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-170.29282,21.1126)"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="323.33984" y="399.5484" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-170.29282,21.1126)">Latest Pending<tspan x="323.33984" dy="13.8" font-weight="400" font-size="12px">9,746,403</tspan></text>
+<rect id="label3_bg" class="for_r3" x="341.28983" y="602.17369" width="50.68281" height="31.39999" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-170,-392)"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="344.78984" y="617.81369" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-170,-392)">Denied<tspan x="344.78984" dy="13.8" font-weight="400" font-size="12px">587,278</tspan></text>
+<rect id="label4_bg" class="for_r4" x="669.35468" y="62.9647" width="80.68281" height="31.4" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-211.33058,118.97244)"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="672.85469" y="78.60469" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-211.33058,118.97244)">Supplemental<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">78,631</tspan></text>
+<rect id="label5_bg" class="for_r5" x="669.35468" y="114.34161" width="148.71406" height="31.4" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-210.40421,103.66381)"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="672.85469" y="129.9816" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-210.40421,103.66381)">Citizenship and Nationality<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">529,720</tspan></text>
+<rect id="label6_bg" class="for_r6" x="669.35468" y="190.80333" width="60.69062" height="31.4" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-209.47784,122.52514)"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="672.85469" y="206.44333" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-209.47784,122.52514)">Other<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">1,540,435</tspan></text>
+<rect id="label7_bg" class="for_r7" x="669.35468" y="288.9052" width="73.99531" height="31.40002" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-209.47784,95.43099)"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="672.85469" y="304.5452" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-209.47784,95.43099)">Employment<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">1,790,788</tspan></text>
+<rect id="label8_bg" class="for_r8" x="669.35468" y="399.03084" width="78.66719" height="31.40002" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-208.47784,63.62411)"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="672.85469" y="414.67085" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-208.47784,63.62411)">Humanitarian<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">2,241,114</tspan></text>
+<rect id="label9_bg" class="for_r9" x="669.35468" y="521.65642" width="59.8" height="31.39999" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-28,68.48715)"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="672.85469" y="537.29637" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-28,68.48715)">Family<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">2,519,211</tspan></text>
+<rect id="label10_bg" class="for_r10" x="669.35468" y="623.78221" width="164.05781" height="31.39999" rx="3" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(-209.70121,-364.72091)"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="672.85469" y="639.42217" font-weight="400" font-size="12px" dy="-2.83999" transform="translate(-209.70121,-364.72091)">Lawful Permanent Residence<tspan x="672.85469" dy="13.8" font-weight="400" font-size="12px">1,046,504</tspan></text>
+</g>
+</g></svg>

@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="exportSvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 782.1 911.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #181818;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3, .cls-7 {
+        font-family: Roboto-Regular, Roboto;
+      }
+
+      .cls-1, .cls-8, .cls-6, .cls-7 {
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        fill: #6a6a6a;
+        opacity: .2;
+      }
+
+      .cls-2, .cls-9, .cls-10, .cls-11, .cls-12, .cls-13, .cls-14 {
+        stroke-width: 0px;
+      }
+
+      .cls-15 {
+        stroke: #e7e7e7;
+      }
+
+      .cls-15, .cls-9, .cls-16, .cls-17 {
+        fill: none;
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-3 {
+        fill: #888;
+        font-size: 11px;
+      }
+
+      .cls-10 {
+        fill: #99c1b9;
+      }
+
+      .cls-11 {
+        fill: #fa8334;
+      }
+
+      .cls-16 {
+        stroke: #c6c6c6;
+      }
+
+      .cls-12, .cls-8, .cls-4 {
+        fill: #000;
+      }
+
+      .cls-8 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-4 {
+        font-family: Roboto-Bold, Roboto;
+        font-size: 22px;
+        font-weight: 700;
+      }
+
+      .cls-17 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-13 {
+        fill: #235789;
+      }
+
+      .cls-14 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        fill: #656565;
+        font-family: Roboto-Italic, Roboto;
+        font-style: italic;
+      }
+
+      .cls-7 {
+        fill: #a2a2a2;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-9" x="36" y="13.8" width="720" height="885"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-14" x="36" y="13.8" width="720" height="885"/>
+  <g class="cls-18">
+    <g id="_svelte-dw-svg" data-name="  svelte-dw-svg">
+      <g id="container-svg_container-header-svg_datawrapper-bai82-5c5xuk-svg" data-name="container-svg container-header-svg datawrapper-bai82-5c5xuk-svg">
+        <g class="cls-5">
+          <text class="cls-4" transform="translate(36 35.8)"><tspan x="0" y="0">Does immigration processing time change per president?</tspan></text>
+        </g>
+      </g>
+      <g id="chart-svg">
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(53 62.2)"><tspan x="0" y="0">Obama</tspan></text>
+          <text class="cls-1" transform="translate(94.5 62.2)"><tspan x="0" y="0">median</tspan></text>
+        </g>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(161.2 62.2)"><tspan x="0" y="0">Trump</tspan></text>
+          <text class="cls-1" transform="translate(198.8 62.2)"><tspan x="0" y="0">median</tspan></text>
+        </g>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(265.5 62.2)"><tspan x="0" y="0">Biden</tspan></text>
+          <text class="cls-1" transform="translate(298.7 62.2)"><tspan x="0" y="0">median</tspan></text>
+        </g>
+        <g id="grid-container-svg">
+          <g id="grid-svg">
+            <g id="x-grid-lines-svg_grid-x-svg_datawrapper-bai82-1fn7900-svg" data-name="x-grid-lines-svg grid-x-svg datawrapper-bai82-1fn7900-svg">
+              <line class="cls-15" x1="316.9" y1="846.1" x2="316.9" y2="96"/>
+              <line class="cls-15" x1="403.3" y1="846.1" x2="403.3" y2="96"/>
+              <line class="cls-15" x1="489.7" y1="846.1" x2="489.7" y2="96"/>
+              <line class="cls-15" x1="576.2" y1="846.1" x2="576.2" y2="96"/>
+              <line class="cls-15" x1="662.6" y1="846.1" x2="662.6" y2="96"/>
+              <line class="cls-15" x1="749" y1="846.1" x2="749" y2="96"/>
+            </g>
+            <g id="x-base-lines-svg_grid-x-svg_datawrapper-bai82-15bm8c5-svg" data-name="x-base-lines-svg grid-x-svg datawrapper-bai82-15bm8c5-svg">
+              <line class="cls-16" x1="230.4" y1="846.1" x2="230.4" y2="96"/>
+            </g>
+            <g id="y-grid-lines-svg_grid-y-svg_datawrapper-bai82-1fn7900-svg" data-name="y-grid-lines-svg grid-y-svg datawrapper-bai82-1fn7900-svg">
+              <line class="cls-15" x1="224.5" y1="103" x2="754.9" y2="103"/>
+              <line class="cls-15" x1="224.5" y1="122" x2="754.9" y2="122"/>
+              <line class="cls-15" x1="224.5" y1="140" x2="754.9" y2="140"/>
+              <line class="cls-15" x1="224.5" y1="158" x2="754.9" y2="158"/>
+              <line class="cls-15" x1="224.5" y1="177" x2="754.9" y2="177"/>
+              <line class="cls-15" x1="224.5" y1="195" x2="754.9" y2="195"/>
+              <line class="cls-15" x1="224.5" y1="214" x2="754.9" y2="214"/>
+              <line class="cls-15" x1="224.5" y1="232" x2="754.9" y2="232"/>
+              <line class="cls-15" x1="224.5" y1="250" x2="754.9" y2="250"/>
+              <line class="cls-15" x1="224.5" y1="269" x2="754.9" y2="269"/>
+              <line class="cls-15" x1="224.5" y1="287" x2="754.9" y2="287"/>
+              <line class="cls-15" x1="224.5" y1="305" x2="754.9" y2="305"/>
+              <line class="cls-15" x1="224.5" y1="324" x2="754.9" y2="324"/>
+              <line class="cls-15" x1="224.5" y1="342" x2="754.9" y2="342"/>
+              <line class="cls-15" x1="224.5" y1="361" x2="754.9" y2="361"/>
+              <line class="cls-15" x1="224.5" y1="379" x2="754.9" y2="379"/>
+              <line class="cls-15" x1="224.5" y1="397" x2="754.9" y2="397"/>
+              <line class="cls-15" x1="224.5" y1="416" x2="754.9" y2="416"/>
+              <line class="cls-15" x1="224.5" y1="434" x2="754.9" y2="434"/>
+              <line class="cls-15" x1="224.5" y1="453" x2="754.9" y2="453"/>
+              <line class="cls-15" x1="224.5" y1="471" x2="754.9" y2="471"/>
+              <line class="cls-15" x1="224.5" y1="489" x2="754.9" y2="489"/>
+              <line class="cls-15" x1="224.5" y1="508" x2="754.9" y2="508"/>
+              <line class="cls-15" x1="224.5" y1="526" x2="754.9" y2="526"/>
+              <line class="cls-15" x1="224.5" y1="545" x2="754.9" y2="545"/>
+              <line class="cls-15" x1="224.5" y1="563" x2="754.9" y2="563"/>
+              <line class="cls-15" x1="224.5" y1="581" x2="754.9" y2="581"/>
+              <line class="cls-15" x1="224.5" y1="600" x2="754.9" y2="600"/>
+              <line class="cls-15" x1="224.5" y1="618" x2="754.9" y2="618"/>
+              <line class="cls-15" x1="224.5" y1="637" x2="754.9" y2="637"/>
+              <line class="cls-15" x1="224.5" y1="655" x2="754.9" y2="655"/>
+              <line class="cls-15" x1="224.5" y1="673" x2="754.9" y2="673"/>
+              <line class="cls-15" x1="224.5" y1="692" x2="754.9" y2="692"/>
+              <line class="cls-15" x1="224.5" y1="710" x2="754.9" y2="710"/>
+              <line class="cls-15" x1="224.5" y1="728" x2="754.9" y2="728"/>
+              <line class="cls-15" x1="224.5" y1="747" x2="754.9" y2="747"/>
+              <line class="cls-15" x1="224.5" y1="765" x2="754.9" y2="765"/>
+              <line class="cls-15" x1="224.5" y1="784" x2="754.9" y2="784"/>
+              <line class="cls-15" x1="224.5" y1="802" x2="754.9" y2="802"/>
+              <line class="cls-15" x1="224.5" y1="820" x2="754.9" y2="820"/>
+              <line class="cls-15" x1="224.5" y1="839" x2="754.9" y2="839"/>
+            </g>
+          </g>
+        </g>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 108)"><tspan x="0" y="0">I-918</tspan></text>
+        </g>
+        <rect class="cls-2" x="351.4" y="100.2" width="359.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 126.4)"><tspan x="0" y="0">I-526</tspan></text>
+        </g>
+        <rect class="cls-2" x="336.3" y="118.6" width="301.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 144.8)"><tspan x="0" y="0">I-829</tspan></text>
+        </g>
+        <rect class="cls-2" x="303.9" y="137" width="302.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 163.2)"><tspan x="0" y="0">l-601A</tspan></text>
+        </g>
+        <rect class="cls-2" x="265.4" y="155.4" width="282.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 181.6)"><tspan x="0" y="0">I-924</tspan></text>
+        </g>
+        <rect class="cls-2" x="341.9" y="173.8" width="79.5" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 200)"><tspan x="0" y="0">I-751</tspan></text>
+        </g>
+        <rect class="cls-2" x="292.7" y="192.2" width="106.3" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 218.4)"><tspan x="0" y="0">I-485 (Asylum)</tspan></text>
+        </g>
+        <rect class="cls-2" x="260.2" y="210.6" width="126.6" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 236.8)"><tspan x="0" y="0">I-730</tspan></text>
+        </g>
+        <rect class="cls-2" x="272.8" y="229" width="77.8" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 255.2)"><tspan x="0" y="0">I-485 (Refugee)</tspan></text>
+        </g>
+        <rect class="cls-2" x="273.2" y="247.4" width="76.5" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 273.6)"><tspan x="0" y="0">I-914</tspan></text>
+        </g>
+        <rect class="cls-2" x="285.7" y="265.7" width="67" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 291.9)"><tspan x="0" y="0">I-131</tspan></text>
+        </g>
+        <rect class="cls-2" x="260.2" y="284.1" width="79.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 310.3)"><tspan x="0" y="0">I-485 (Family)</tspan></text>
+        </g>
+        <rect class="cls-2" x="278.4" y="302.5" width="47.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 328.7)"><tspan x="0" y="0">I-130</tspan></text>
+        </g>
+        <rect class="cls-2" x="274.9" y="320.9" width="48.8" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 347.1)"><tspan x="0" y="0">l-129F</tspan></text>
+        </g>
+        <rect class="cls-2" x="258.5" y="339.3" width="63.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 365.5)"><tspan x="0" y="0">Waivers</tspan></text>
+        </g>
+        <rect class="cls-2" x="286.6" y="357.7" width="29" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 383.9)"><tspan x="0" y="0">I-485 (Employment)</tspan></text>
+        </g>
+        <rect class="cls-2" x="271.5" y="376.1" width="40.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 402.3)"><tspan x="0" y="0">N-400</tspan></text>
+        </g>
+        <rect class="cls-2" x="274.1" y="394.5" width="37.6" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 420.7)"><tspan x="0" y="0">I-821</tspan></text>
+        </g>
+        <rect class="cls-2" x="250.7" y="412.9" width="49.7" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 439.1)"><tspan x="0" y="0">I-485 (Other)</tspan></text>
+        </g>
+        <rect class="cls-2" x="294.8" y="431.3" width="89.9" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 457.5)"><tspan x="0" y="0">I-140</tspan></text>
+        </g>
+        <rect class="cls-2" x="272.8" y="449.7" width="22.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 475.9)"><tspan x="0" y="0">N-565</tspan></text>
+        </g>
+        <rect class="cls-2" x="262.8" y="468" width="31.6" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 494.2)"><tspan x="0" y="0">I-817</tspan></text>
+        </g>
+        <rect class="cls-2" x="275.8" y="486.4" width="30.7" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 512.6)"><tspan x="0" y="0">I-131 (Advance Parole)</tspan></text>
+        </g>
+        <rect class="cls-2" x="249.9" y="504.8" width="37.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 531)"><tspan x="0" y="0">I-539</tspan></text>
+        </g>
+        <rect class="cls-2" x="252" y="523.2" width="32.9" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 549.4)"><tspan x="0" y="0">I-360</tspan></text>
+        </g>
+        <rect class="cls-2" x="270.6" y="541.6" width="66.6" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 567.8)"><tspan x="0" y="0">I-765 (I-485)</tspan></text>
+        </g>
+        <rect class="cls-2" x="249.9" y="560" width="33.3" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 586.2)"><tspan x="0" y="0">N-600</tspan></text>
+        </g>
+        <rect class="cls-2" x="282.7" y="578.4" width="12.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 604.6)"><tspan x="0" y="0">I-600</tspan></text>
+        </g>
+        <rect class="cls-2" x="248.1" y="596.8" width="33.7" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 623)"><tspan x="0" y="0">I-821D (DACA-initial)</tspan></text>
+        </g>
+        <rect class="cls-2" x="268.5" y="615.2" width="29.4" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 641.4)"><tspan x="0" y="0">I-824</tspan></text>
+        </g>
+        <rect class="cls-2" x="252.9" y="633.6" width="29" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 659.8)"><tspan x="0" y="0">I-485 (Cuban)</tspan></text>
+        </g>
+        <rect class="cls-2" x="272.8" y="651.9" width="27.7" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 678.2)"><tspan x="0" y="0">I-131 (Parole in place)</tspan></text>
+        </g>
+        <rect class="cls-2" x="249" y="670.3" width="22.9" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 696.5)"><tspan x="0" y="0">I-102</tspan></text>
+        </g>
+        <rect class="cls-2" x="253.3" y="688.7" width="16.9" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 714.9)"><tspan x="0" y="0">I-90</tspan></text>
+        </g>
+        <rect class="cls-2" x="258.1" y="707.1" width="40.6" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 733.3)"><tspan x="0" y="0">I-765 (Employment authorization)</tspan></text>
+        </g>
+        <rect class="cls-2" x="248.1" y="725.5" width="9.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 751.7)"><tspan x="0" y="0">I-600</tspan></text>
+        </g>
+        <rect class="cls-2" x="244.2" y="743.9" width="12.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 770.1)"><tspan x="0" y="0">I-765 (Asylum)</tspan></text>
+        </g>
+        <rect class="cls-2" x="245.1" y="762.3" width="6.1" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 788.5)"><tspan x="0" y="0">I-765 (DACA)</tspan></text>
+        </g>
+        <rect class="cls-2" x="240.4" y="780.7" width="18.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 806.9)"><tspan x="0" y="0">I-821D (DACA-renewal)</tspan></text>
+        </g>
+        <rect class="cls-2" x="240.4" y="799.1" width="10.8" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 825.3)"><tspan x="0" y="0">I-765 (Other)</tspan></text>
+        </g>
+        <rect class="cls-2" x="238.6" y="817.5" width="27.2" height="6"/>
+        <g class="cls-5">
+          <text class="cls-1" transform="translate(37 843.7)"><tspan x="0" y="0">I-800</tspan></text>
+        </g>
+        <rect class="cls-2" x="234.7" y="835.9" width="3.9" height="6"/>
+        <g id="grid-container-svg-2" data-name="grid-container-svg">
+          <g id="grid-svg-2" data-name="grid-svg">
+            <g id="x-tick-labels-svg_grid-x-svg_number-axis-svg_datawrapper-bai82-16k86v8-svg" data-name="x-tick-labels-svg grid-x-svg number-axis-svg datawrapper-bai82-16k86v8-svg">
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(227.1 88)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(310.1 88)"><tspan x="0" y="0">10</tspan></text>
+              </g>
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(396.6 88)"><tspan x="0" y="0">20</tspan></text>
+              </g>
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(483 88)"><tspan x="0" y="0">30</tspan></text>
+              </g>
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(569.4 88)"><tspan x="0" y="0">40</tspan></text>
+              </g>
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(655.9 88)"><tspan x="0" y="0">50</tspan></text>
+              </g>
+              <g class="cls-5">
+                <text class="cls-7" transform="translate(735.6 88)"><tspan x="0" y="0">60</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <circle class="cls-10" cx="351.4" cy="103.2" r="5"/>
+        <circle class="cls-11" cx="621.5" cy="103.2" r="5"/>
+        <circle class="cls-13" cx="710.6" cy="103.2" r="5"/>
+        <circle class="cls-10" cx="336.3" cy="121.6" r="5"/>
+        <circle class="cls-11" cx="389.9" cy="121.6" r="5"/>
+        <circle class="cls-13" cx="637.5" cy="121.6" r="5"/>
+        <circle class="cls-10" cx="303.9" cy="140" r="5"/>
+        <circle class="cls-11" cx="431.8" cy="140" r="5"/>
+        <circle class="cls-13" cx="606" cy="140" r="5"/>
+        <circle class="cls-10" cx="265.4" cy="158.4" r="5"/>
+        <circle class="cls-11" cx="287.9" cy="158.4" r="5"/>
+        <circle class="cls-13" cx="547.6" cy="158.4" r="5"/>
+        <circle class="cls-10" cx="341.9" cy="176.8" r="5"/>
+        <circle class="cls-11" cx="395.1" cy="176.8" r="5"/>
+        <circle class="cls-13" cx="421.4" cy="176.8" r="5"/>
+        <circle class="cls-10" cx="292.7" cy="195.2" r="5"/>
+        <circle class="cls-11" cx="354.5" cy="195.2" r="5"/>
+        <circle class="cls-13" cx="399" cy="195.2" r="5"/>
+        <circle class="cls-10" cx="260.2" cy="213.6" r="5"/>
+        <circle class="cls-11" cx="286.2" cy="213.6" r="5"/>
+        <circle class="cls-13" cx="386.9" cy="213.6" r="5"/>
+        <circle class="cls-10" cx="272.8" cy="232" r="5"/>
+        <circle class="cls-11" cx="331.5" cy="232" r="5"/>
+        <circle class="cls-13" cx="350.6" cy="232" r="5"/>
+        <circle class="cls-10" cx="273.2" cy="250.4" r="5"/>
+        <circle class="cls-11" cx="298.3" cy="250.4" r="5"/>
+        <circle class="cls-13" cx="349.7" cy="250.4" r="5"/>
+        <circle class="cls-10" cx="285.7" cy="268.7" r="5"/>
+        <circle class="cls-11" cx="352.7" cy="268.7" r="5"/>
+        <circle class="cls-13" cx="344.9" cy="268.7" r="5"/>
+        <circle class="cls-10" cx="265.4" cy="287.1" r="5"/>
+        <circle class="cls-11" cx="260.2" cy="287.1" r="5"/>
+        <circle class="cls-13" cx="339.3" cy="287.1" r="5"/>
+        <circle class="cls-10" cx="278.4" cy="305.5" r="5"/>
+        <circle class="cls-11" cx="314.7" cy="305.5" r="5"/>
+        <circle class="cls-13" cx="325.5" cy="305.5" r="5"/>
+        <circle class="cls-10" cx="274.9" cy="323.9" r="5"/>
+        <circle class="cls-11" cx="299.1" cy="323.9" r="5"/>
+        <circle class="cls-13" cx="323.8" cy="323.9" r="5"/>
+        <circle class="cls-10" cx="258.5" cy="342.3" r="5"/>
+        <circle class="cls-11" cx="272.8" cy="342.3" r="5"/>
+        <circle class="cls-13" cx="321.6" cy="342.3" r="5"/>
+        <circle class="cls-10" cx="286.6" cy="360.7" r="5"/>
+        <circle class="cls-11" cx="315.6" cy="360.7" r="5"/>
+        <circle class="cls-13" cx="315.1" cy="360.7" r="5"/>
+        <circle class="cls-10" cx="271.5" cy="379.1" r="5"/>
+        <circle class="cls-11" cx="311.7" cy="379.1" r="5"/>
+        <circle class="cls-13" cx="310.4" cy="379.1" r="5"/>
+        <circle class="cls-10" cx="274.1" cy="397.5" r="5"/>
+        <circle class="cls-11" cx="311.7" cy="397.5" r="5"/>
+        <circle class="cls-13" cx="302.2" cy="397.5" r="5"/>
+        <circle class="cls-10" cx="250.7" cy="415.9" r="5"/>
+        <circle class="cls-11" cx="257.6" cy="415.9" r="5"/>
+        <circle class="cls-13" cx="300.4" cy="415.9" r="5"/>
+        <circle class="cls-10" cx="294.8" cy="434.3" r="5"/>
+        <circle class="cls-11" cx="384.7" cy="434.3" r="5"/>
+        <circle class="cls-13" cx="298.3" cy="434.3" r="5"/>
+        <circle class="cls-10" cx="272.8" cy="452.7" r="5"/>
+        <circle class="cls-11" cx="287" cy="452.7" r="5"/>
+        <circle class="cls-13" cx="294.8" cy="452.7" r="5"/>
+        <circle class="cls-10" cx="278.4" cy="471" r="5"/>
+        <circle class="cls-11" cx="262.8" cy="471" r="5"/>
+        <circle class="cls-13" cx="294.4" cy="471" r="5"/>
+        <circle class="cls-10" cx="275.8" cy="489.4" r="5"/>
+        <circle class="cls-11" cx="306.5" cy="489.4" r="5"/>
+        <circle class="cls-13" cx="292.7" cy="489.4" r="5"/>
+        <circle class="cls-10" cx="249.9" cy="507.8" r="5"/>
+        <circle class="cls-11" cx="265.4" cy="507.8" r="5"/>
+        <circle class="cls-13" cx="287" cy="507.8" r="5"/>
+        <circle class="cls-10" cx="252" cy="526.2" r="5"/>
+        <circle class="cls-11" cx="264.1" cy="526.2" r="5"/>
+        <circle class="cls-13" cx="284.9" cy="526.2" r="5"/>
+        <circle class="cls-10" cx="270.6" cy="544.6" r="5"/>
+        <circle class="cls-11" cx="337.2" cy="544.6" r="5"/>
+        <circle class="cls-13" cx="283.6" cy="544.6" r="5"/>
+        <circle class="cls-10" cx="249.9" cy="563" r="5"/>
+        <circle class="cls-11" cx="268.9" cy="563" r="5"/>
+        <circle class="cls-13" cx="283.1" cy="563" r="5"/>
+        <circle class="cls-10" cx="284.4" cy="581.4" r="5"/>
+        <circle class="cls-11" cx="294.8" cy="581.4" r="5"/>
+        <circle class="cls-13" cx="282.7" cy="581.4" r="5"/>
+        <circle class="cls-10" cx="257.6" cy="599.8" r="5"/>
+        <circle class="cls-11" cx="248.1" cy="599.8" r="5"/>
+        <circle class="cls-13" cx="281.8" cy="599.8" r="5"/>
+        <circle class="cls-10" cx="268.5" cy="618.2" r="5"/>
+        <circle class="cls-11" cx="297.8" cy="618.2" r="5"/>
+        <circle class="cls-13" cx="281.4" cy="618.2" r="5"/>
+        <circle class="cls-10" cx="252.9" cy="636.6" r="5"/>
+        <circle class="cls-11" cx="281.8" cy="636.6" r="5"/>
+        <circle class="cls-13" cx="275.4" cy="636.6" r="5"/>
+        <circle class="cls-10" cx="300.4" cy="654.9" r="5"/>
+        <circle class="cls-11" cx="294" cy="654.9" r="5"/>
+        <circle class="cls-13" cx="272.8" cy="654.9" r="5"/>
+        <circle class="cls-10" cx="249" cy="673.3" r="5"/>
+        <circle class="cls-11" cx="258.9" cy="673.3" r="5"/>
+        <circle class="cls-13" cx="271.9" cy="673.3" r="5"/>
+        <circle class="cls-10" cx="253.3" cy="691.7" r="5"/>
+        <circle class="cls-11" cx="264.1" cy="691.7" r="5"/>
+        <circle class="cls-13" cx="270.2" cy="691.7" r="5"/>
+        <circle class="cls-10" cx="283.1" cy="710.1" r="5"/>
+        <circle class="cls-11" cx="298.7" cy="710.1" r="5"/>
+        <circle class="cls-13" cx="258.1" cy="710.1" r="5"/>
+        <circle class="cls-10" cx="248.1" cy="728.5" r="5"/>
+        <circle class="cls-11" cx="253.7" cy="728.5" r="5"/>
+        <circle class="cls-13" cx="257.2" cy="728.5" r="5"/>
+        <circle class="cls-10" cx="244.2" cy="746.9" r="5"/>
+        <circle class="cls-11" cx="247.3" cy="746.9" r="5"/>
+        <circle class="cls-13" cx="256.3" cy="746.9" r="5"/>
+        <circle class="cls-10" cx="245.1" cy="765.3" r="5"/>
+        <circle class="cls-11" cx="246.4" cy="765.3" r="5"/>
+        <circle class="cls-13" cx="251.2" cy="765.3" r="5"/>
+        <circle class="cls-10" cx="258.5" cy="783.7" r="5"/>
+        <circle class="cls-11" cx="240.4" cy="783.7" r="5"/>
+        <circle class="cls-13" cx="242.5" cy="783.7" r="5"/>
+        <circle class="cls-10" cx="251.2" cy="802.1" r="5"/>
+        <circle class="cls-11" cx="240.4" cy="802.1" r="5"/>
+        <circle class="cls-13" cx="242.5" cy="802.1" r="5"/>
+        <circle class="cls-10" cx="248.1" cy="820.5" r="5"/>
+        <circle class="cls-11" cx="265.9" cy="820.5" r="5"/>
+        <circle class="cls-13" cx="238.6" cy="820.5" r="5"/>
+        <circle class="cls-10" cx="234.7" cy="838.9" r="5"/>
+        <circle class="cls-11" cx="235.6" cy="838.9" r="5"/>
+        <circle class="cls-13" cx="238.6" cy="838.9" r="5"/>
+        <circle class="cls-10" cx="43" cy="57.7" r="7"/>
+        <circle class="cls-11" cx="151.2" cy="57.7" r="7"/>
+        <circle class="cls-13" cx="255.5" cy="57.7" r="7"/>
+      </g>
+      <g id="container-svg_container-footer-svg_datawrapper-bai82-1o125dc-svg" data-name="container-svg container-footer-svg datawrapper-bai82-1o125dc-svg">
+        <g class="cls-5">
+          <text class="cls-6" transform="translate(36 878.8)"><tspan x="0" y="0">President timeframe of terms used: Obama 2nd term, Trump 1st term, Biden 1st term</tspan></text>
+        </g>
+        <g class="cls-5">
+          <text class="cls-3" transform="translate(36 896.8)"><tspan x="0" y="0">Chart:</tspan></text>
+          <text class="cls-3" transform="translate(68.1 896.8)"><tspan x="0" y="0">Rambo Talabong</tspan></text>
+          <text class="cls-3" transform="translate(153.5 896.8)"><tspan x="0" y="0">•</tspan></text>
+          <text class="cls-3" transform="translate(159.9 896.8)"><tspan x="0" y="0">Source:</tspan></text>
+          <text class="cls-3" transform="translate(199.4 896.8)"><tspan x="0" y="0">U.S. Citizenship and Immigration Services</tspan></text>
+          <text class="cls-3" transform="translate(405.4 896.8)"><tspan x="0" y="0">•</tspan></text>
+          <text class="cls-3" transform="translate(411.8 896.8)"><tspan x="0" y="0">Created with</tspan></text>
+          <text class="cls-3" transform="translate(476.2 896.8)"><tspan x="0" y="0">Datawrapper</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <line class="cls-17" x1="346.9" y1="326.6" x2="443.1" y2="351.1"/>
+    <polygon class="cls-12" points="348.7 330.9 348.1 326.9 350.6 323.7 341.1 325.1 348.7 330.9"/>
+  </g>
+  <text class="cls-8" transform="translate(448.6 356.9)"><tspan x="0" y="0">Our petition</tspan></text>
+</svg>
