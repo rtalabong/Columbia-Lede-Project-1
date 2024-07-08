@@ -7,12 +7,12 @@ I wanted to accomplish the following:
 2.  Does the speed of immigration processing change depending on the president? By how much?
 3.  Within President Joe Biden's term, how much do processing times fluctuate?
 
-## The product, the tool, and the data
-| Visualization | Data used | Right-aligned |
-| :---         | :---           | :---          |
-| 1. US immigration process flow chart   | [My quarter's USCIS data](https://www.uscis.gov/sites/default/files/document/reports/quarterly_all_forms_fy2024_q2.xlsx)     | Sankeygram, Adobe Illustrator|
-| 2. Immigration speed per president     | [Annual USCIS data](https://egov.uscis.gov/processing-times/historic-pt)|Datawrapper, Adobe Illustrator|
-| 3. Immigration speed under President Biden     | [Quarterly USCIS data](https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data)|Datawrapper, Adobe Illustrator|
+## The product, the data, and the tools
+| Visualization | Data used | Visualization Tool | Data analysis tool
+| :---         | :---           | :---          | :---       |
+| 1. US immigration process flow chart   | [My quarter's USCIS data](https://www.uscis.gov/sites/default/files/document/reports/quarterly_all_forms_fy2024_q2.xlsx)     | Sankeygram, Adobe Illustrator| Jupytr notebook, pandas |
+| 2. Immigration speed per president     | [Annual USCIS data](https://egov.uscis.gov/processing-times/historic-pt)|Datawrapper, Adobe Illustrator| Microsofr Excel, Jupytr notebook, pandas |
+| 3. Immigration speed under President Biden     | [Quarterly USCIS data](https://www.uscis.gov/tools/reports-and-studies/immigration-and-citizenship-data)|Datawrapper, Adobe Illustrator|Microsoft Excel, Jupytr notebook, pandas|
 
 The data shows that immigration processing time slowed down under President Trump after President Obama's term. It further slowed down under President Biden. 
 
