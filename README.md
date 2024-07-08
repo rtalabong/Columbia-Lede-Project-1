@@ -21,3 +21,4 @@ I got to use both the data analysis and data visualization lessons I have learne
 
 ## What I wanted to do more
 If I had the data, I would have loved to complement the immigration speed with the immigration denial rate of each president.
+I believe I could have also had a sharper angle to the story if I focused only on immigration forms that are in the same categories as mine, specifically forms that also have the aim of obtaining green cards. I am excited to return to this story as I learn better methods to analyze and visualize data.
